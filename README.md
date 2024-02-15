@@ -1,4 +1,4 @@
-# Reanimated example
+## PBL Project with both its app and Arduino code
 
 <p>
   <!-- iOS -->
@@ -8,13 +8,13 @@
   <!-- Web -->
 </p>
 
-## 🚀 How to use
+## 🚀 How to run app 
 
-> `npx create-react-native-app my-app -t with-reanimated`
-
-- Run `yarn` or `npm install`
+- Open the VS code and run the following command in the terminal
+- You have to Expo Go in your Android or ios to see the output
+- then code both devices to the same wifi so they get connected locally on a device
 - Run `yarn start` or `npm run start` to try it out.
 
-## 📝 Notes
+## 📝 How arduino work
 
-- [`react-native-reanimated` docs](https://docs.swmansion.com/react-native-reanimated/)
+- here,
